@@ -14,13 +14,6 @@ By the end of this project, your model will be capable of predicting digits from
 
 ---
 
-## Prerequisites
-- Basic understanding of Python programming.
-- Familiarity with basic machine learning concepts (recommended but not required).
-- An environment with Python, TensorFlow, and Keras installed.
-
----
-
 ## Learning Objectives
 This project will guide you through the following steps:
 
@@ -41,40 +34,8 @@ This project will guide you through the following steps:
 
 ---
 
-## Project Structure
-```
-├── data
-│   └── dataset_files_here
-├── notebooks
-│   └── image_classification.ipynb
-├── src
-│   └── model.py
-├── README.md
-└── requirements.txt
-```
-
----
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/repo-name.git
-   cd repo-name
-   ```
-2. Create a virtual environment (optional but recommended):
-   ```bash
-   python -m venv env
-   source env/bin/activate  # On Windows use `env\Scripts\activate`
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## Usage
-Run the Jupyter notebook to get started:
+Run the Jupyter **notebook/Google Colab** to get started:
 ```bash
 jupyter notebook notebooks/image_classification.ipynb
 ```
